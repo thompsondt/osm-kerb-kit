@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 4911 8505" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-33860,-12047)">
+        <g id="crossing" transform="matrix(2.26506,0,0,5.63716,-32779,195.373)">
+            <rect x="29420.6" y="2102.49" width="2167.66" height="1508.55" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="29420.6" y="2102.49" width="2167.66" height="1508.55"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.23891,0,0,1.08286,-7265.09,-203.197)">
+                    <g>
+                        <g id="BASE" transform="matrix(4.35879,-1.15689,3.58712,0.952078,23697.1,2361.67)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(101,214,255);"/>
+                        </g>
+                        <g id="BASE1" serif:id="BASE" transform="matrix(2.1794,-0.578446,1.79356,0.476039,27091.7,2942.02)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(3,188,255);"/>
+                        </g>
+                        <g id="BASE2" serif:id="BASE" transform="matrix(2.1794,-0.578446,1.79356,0.476039,27091.7,2709.84)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(3,188,255);"/>
+                        </g>
+                        <g id="BASE3" serif:id="BASE" transform="matrix(1.0897,-0.289223,0.89678,0.238019,28788.9,2883.92)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(0,121,204);"/>
+                        </g>
+                        <g id="BASE4" serif:id="BASE" transform="matrix(1.0897,-0.289223,0.89678,0.238019,28132.8,3058.06)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(0,121,204);"/>
+                        </g>
+                        <g id="BASE5" serif:id="BASE" transform="matrix(1.0897,-0.289223,0.89678,0.238019,29445,3058.06)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(0,121,204);"/>
+                        </g>
+                        <g id="BASE6" serif:id="BASE" transform="matrix(1.0897,-0.289223,0.89678,0.238019,28788.9,3232.2)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(0,121,204);"/>
+                        </g>
+                        <g id="SIDE" transform="matrix(4.35879,1.15689,-1.66176e-15,3.80831,29278.2,-3187.85)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(212,194,0);"/>
+                        </g>
+                        <g id="FRONT" transform="matrix(4.35879,-1.15689,9.88478e-16,3.80831,28403.4,-2314.45)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:rgb(109,0,65);"/>
+                            <path d="M477.827,1312L277.128,1312L277.128,1555.87L477.827,1555.87L477.827,1312ZM477.54,1312.17L477.54,1555.7C477.54,1555.7 287.65,1555.7 277.414,1555.7C277.414,1555.7 277.414,1312.17 277.414,1312.17C277.414,1312.17 477.54,1312.17 477.54,1312.17L477.54,1312.17Z" style="fill:rgb(5,5,5);"/>
+                        </g>
+                        <g id="BOX" transform="matrix(4.35879,-1.15689,9.88478e-16,3.80831,29278.2,-2082.26)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.98px;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,1.15689,4.80436e-17,0.290193,29278.2,2285.89)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:white;fill-opacity:0.36;stroke:black;stroke-width:1.33px;stroke-dasharray:1.33,2.66,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT1" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,-1.15689,-1.0369e-16,0.290193,29278.2,3391.48)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:white;fill-opacity:0.36;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,3.01,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT2" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,-1.15689,-1.0369e-16,0.290193,28403.4,3159.29)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:white;fill-opacity:0.36;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,3.01,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT3" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,-1.15689,-1.0369e-16,0.290193,28840.8,3275.39)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,3.01,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT4" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,-1.15689,-1.0369e-16,0.290193,28512.8,3188.32)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,3.01,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT5" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,-1.15689,-1.0369e-16,0.290193,29168.9,3362.46)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.5px;stroke-dasharray:1.5,3.01,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT6" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,1.15689,4.80436e-17,0.290193,28840.8,2401.99)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.33px;stroke-dasharray:1.33,2.66,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT7" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,1.15689,4.80436e-17,0.290193,28512.8,2489.06)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.33px;stroke-dasharray:1.33,2.66,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT8" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,1.15689,4.80436e-17,0.290193,29168.9,2314.92)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.33px;stroke-dasharray:1.33,2.66,0,0;"/>
+                        </g>
+                        <g id="STD-CURB-HEIGHT9" serif:id="STD CURB HEIGHT" transform="matrix(4.35879,1.15689,4.80436e-17,0.290193,28403.4,2518.08)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:white;fill-opacity:0.36;stroke:black;stroke-width:1.33px;stroke-dasharray:1.33,2.66,0,0;"/>
+                        </g>
+                        <g id="BOX1" serif:id="BOX" transform="matrix(4.35879,1.15689,-6.04524e-16,3.80831,28403.4,-2955.66)">
+                            <rect x="277.128" y="1312" width="200.698" height="243.873" style="fill:none;stroke:black;stroke-width:1.23px;"/>
+                        </g>
+                        <g id="TOP" transform="matrix(4.35879,-1.15689,3.58712,0.952078,23697.1,1432.93)">
+                            <path d="M477.827,1312L277.128,1312L277.128,1555.87L477.827,1555.87L477.827,1312ZM466.239,1326.08L466.239,1541.79C466.239,1541.79 288.715,1541.79 288.715,1541.79C288.715,1541.79 288.715,1326.08 288.715,1326.08C288.715,1326.08 466.239,1326.08 466.239,1326.08L466.239,1326.08Z" style="fill:rgb(101,214,255);"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.910483,-0.211218,0.149227,0.0346184,18714.4,5934.86)">
+                    <rect x="11973.5" y="1718.08" width="1200" height="1214.75" style="fill:none;"/>
+                    <clipPath id="_clip2">
+                        <rect x="11973.5" y="1718.08" width="1200" height="1214.75"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(12,-3.19744e-14,-2.21477e-16,8.06973,-132183,-16540.1)">
+                            <rect x="12013" y="2294" width="100" height="90" style="fill:rgb(96,156,106);"/>
+                        </g>
+                        <g transform="matrix(1.47617,2.4569,-0.847064,4.28161,-6903.54,-47753.3)">
+                            <path d="M14623.9,3199.6L15234.3,2846.64" style="fill:none;stroke:rgb(96,156,106);stroke-width:6.64px;stroke-dasharray:6.64,19.93,26.57,0;stroke-dashoffset:13.28;"/>
+                        </g>
+                        <g transform="matrix(1.47617,2.4569,-0.847064,4.28161,-6793.52,-46856.1)">
+                            <path d="M14571.5,3238.22L15183.1,2887.3" style="fill:none;stroke:rgb(96,156,106);stroke-width:6.64px;stroke-dasharray:6.64,19.93,26.57,0;stroke-dashoffset:13.28;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
