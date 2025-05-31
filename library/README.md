@@ -17,4 +17,4 @@ Folders:
     - `example-scene-002.svg`
   - `README.md` instructions or examples showcasing the theme
 
-For more information about the various asset types, see: [contributing](/docs/CONTRIBUTING.md#asset-types)
+For more information about the various asset types, see: [contributing](/.github/CONTRIBUTING.md#asset-types)

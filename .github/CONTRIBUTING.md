@@ -1,9 +1,10 @@
 # Contributing to Kerb Kit
+We recommend starting with the [README](/README.md) for a big-picture look at what Kerb Kit is and how it supports the OpenStreetMap community.
 
 ## Asset Types
 
-> [!TIP] > **These Terms May Change**, here is how you can help:
->
+> [!TIP]
+> **These Terms May Change**, here is how you can help:
 > - Review these definitions and suggest improvements or refinements
 > - Share examples or counter-examples if something feels ambiguous
 
@@ -11,7 +12,7 @@ To support contributors and maintain clarity as the project progresses, we've de
 
 **🛠️ After all, we're laying the groundwork** for a system that's easy to navigate, extend, and maintain.
 
-This shared language helps everyone understand how the pieces fit together conceptually, whether you're creating assets, assembling scenes, or writing documentation.
+This shared language helps everyone understand how the pieces fit together conceptually, whether you're creating assets, assembling scenes, or writing documentation. We organize all of our assets in *thematic folders* under the [`library/`](/library/README.md) folder.
 
 ### **Environmental Features**
 

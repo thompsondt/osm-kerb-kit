@@ -3,3 +3,7 @@ Kerb Kit is an open design system for visualizing curbs, crossings, streets, and
 
 > ![The Vision for Kerb Kit](docs/static/readme_vision.jpg)
 > The Concept: A library of simple tiles for constructing illustrations
+
+💡 **Want to contribute?** 
+
+Check out our [contributing guidelines](.github/CONTRIBUTING.md) to get started, understand the asset types, and learn how to make compatible illustrations!
