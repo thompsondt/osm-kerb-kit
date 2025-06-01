@@ -27,8 +27,6 @@ assignees: ''
 *Any additional thoughts? Links to examples? Precedent from other projects? Drop them here!*
 
 
----
-
 > [!TIP}
 > 👐 **Not sure where to start?** That's okay!
 > Please take a look at our [Contributing Guidelines](../CONTRIBUTING.md) for context, and feel free to start a [conversation](/discussions/categories/ideas) and share your ideas even if they're early or rough.
