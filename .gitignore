@@ -1,2 +1,7 @@
 !*.svg
 !docs/**/*.jpg
+
+## DO NOT CHANGE
+## The source design files in this repository will be manually updated by the maintainers
+*.afdesign
+*.ai
