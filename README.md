@@ -1,8 +1,14 @@
 # Kerb Kit for OpenStreetMap (OSM)
 Kerb Kit is an open design system for visualizing curbs, crossings, streets, and sidewalk features. It provides pre-made templates and modular design elements that collaborators can use to quickly assemble consistent scenes in vector graphics tools like Inkscape, Affinity Designer, or Adobe Illustrator.
 
-> ![The Vision for Kerb Kit](docs/static/readme_vision.jpg)
-> The Concept: A library of simple tiles for constructing illustrations
+## The Vision: A library of simple tiles for constructing illustrations
+
+![The Vision for Kerb Kit](docs/static/readme_vision.jpg)
+
+
+The Kerb Kit Library folder will contain all visual assets and organized under specific themes to support mapping and education. Tiles are reusable 3D-like components designed to snap directly into any artistic environment. They use a **2:1 isometric perspective** making them compatible with any square grid spacing (36px by default). Tiles can be assembled into scenes depicting features of the pedestrian environment and mapping guidance.
+
+![Placing Kerb Kit Tiles](docs/static/tile_placement.jpg)
 
 ## Want to contribute?
 
