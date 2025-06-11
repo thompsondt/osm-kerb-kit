@@ -1,5 +1,5 @@
 # Contributing to Kerb Kit
-We recommend starting with the [README](README.md) for a big-picture look at what Kerb Kit is and how it supports the OpenStreetMap community.
+We recommend starting with the [README](README.md) for a big-picture look at what Kerb Kit is and how it supports the OpenStreetMap community. For general design guidance, see: [Design Guidance](/DESIGN_GUIDANCE.md).
 
 ## How the Asset Workflow Works
 
