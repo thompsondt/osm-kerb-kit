@@ -10,14 +10,14 @@ When creating new artwork for the Kerb Kit Library, you can use any tool that yo
 
 - **All Kerb Kit assets use a 2:1 isometric projection** (see: [wiki](https://en.wikipedia.org/wiki/Isometric_projection)), giving a sense of depth and spatial relationships.
 - **Baseline grid:** Assets are aligned to a 1x1x1 yard cube (isometric).
-		- This cube is your primary building block for most features (e.g., a curb, slab, or paving stone).
-		- To create smaller details, subdivide the cube into smaller fractions (1/2, 1/3rd, or 1/6th).
-		- For larger features (e.g., intersections), use a multiple of the cube (2x1, 3x1, etc.).
+    - This cube is your primary building block for most features (e.g., a curb, slab, or paving stone).
+    - To create smaller details, subdivide the cube into smaller fractions (1/2, 1/3rd, or 1/6th).
+    - For larger features (e.g., intersections), use a multiple of the cube (2x1, 3x1, etc.).
 - **Snap everything to the grid:** This ensures tiles and assets will align seamlessly when assembled.
 
 Tiles designed on a true isometric grid don't easily (or intuitively) align with each other on a standard grid. Switching to a 2:1 version of isometric projection (slightly squashed from true isometric) can help isometric tiles to align onto a standard grid, once they're flattened and scaled appropriately. The following grids and grid settings to help streamline the workflow during the design process so that tiles align nicely for users.
 
-#### The Tile Design: 36px Standard Grid
+### The Tile Design: 36px Standard Grid
 
 ![tile design grid](/docs/static/tile_design_grid.jpg)
 
@@ -30,19 +30,20 @@ This grid allows artists to layout their work on flat surfaces without any proje
 
 > *As of now, in my workflow, I'm building the look of my tiles here as separate faces before assembling them during the projection step.* -- @thompsondt
 
-#### Tile Projection: 40.2px 2-to-1 Isometric Grid
+### Tile Projection: 40.2px 2-to-1 Isometric Grid
 
 - Used by: Tile Designers
 - Grid Spacing: 40.2px
 - Grid Divisions:
 
 ![tile projection grid](/docs/static/tile_isometric_grid.jpg)
+
 While acceptable isometric illustrations can be designed with careful use of a flat grid, working in an editor that directly supports a 2:1 isometric projection adds a fair amount of convenience and flexibility. The grid spacing is a little different in this step: 40.2px vs 36px in the previous step. That can feel a little weird, but the math works out so that the tiles will snap together nicely in the next step.
 
 > [!NOTE]
 > Export your work from the isometric grid and then test loading that work on the standard grid, as a library user would.
 
-#### Tile Placement: 36px Standard Grid
+### Tile Placement: 36px Standard Grid
 
 - Used by: Library Users
 - Grid Spacing: 36px
